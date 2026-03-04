@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Red Primary Circle -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+
+    <!-- White Stylized Eye (Symbolizing Vigilance) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,38c-15,0 -28,9 -34,22c6,13 19,22 34,22s28,-9 34,-22c-6,-13 -19,-22 -34,-22zM54,74c-8.8,0 -16,-7.2 -16,-16s7.2,-16 16,-16 16,7.2 16,16 -7.2,16 -16,16zM54,48c-5.5,0 -10,4.5 -10,10s4.5,10 10,10 10,-4.5 10,-10 -4.5,-10 -10,-10z" />
+</vector>
